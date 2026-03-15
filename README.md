@@ -18,7 +18,7 @@ Key variables include:
 
 ---
 
-## Methodology
+## Project structure 
 
 ### 1. Data Analysis (EDA)
 Initial exploration of the dataset, including variable distributions and data quality checks.
