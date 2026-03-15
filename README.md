@@ -20,7 +20,7 @@ Key variables include:
 
 ## Project structure 
 
-### 1. Data Analysis (EDA)
+### 1. Data Analysis
 Initial exploration of the dataset, including variable distributions and data quality checks.
 
 ### 2. Conversion Rate and Lift Analysis
@@ -55,16 +55,5 @@ A logistic regression model is used to estimate the probability of conversion wh
 - Logistic regression confirms that the positive effect of advertisements remains significant even after controlling for day of the week, time of exposure, and the number of advertisements seen.
 
 The results indicate that exposure to advertisements significantly increases the probability of conversion. Although the absolute increase in conversion rate is relatively small, the relative improvement is substantial due to the low baseline conversion rate.
-
----
-
-## Technologies Used
-
-- Python  
-- Pandas  
-- NumPy  
-- Seaborn  
-- Matplotlib  
-- Statsmodels  
 
 
